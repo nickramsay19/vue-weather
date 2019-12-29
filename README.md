@@ -1,5 +1,9 @@
 # vue-api-connect
 
+A simple weather app that shows weather information from most major cities. This project uses axios with vue to connect to the OpenWeather API. 
+
+This project showcases front-end integration with back end APIs.
+
 ## Project setup
 ```
 npm install
